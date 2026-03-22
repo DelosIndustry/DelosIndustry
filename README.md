@@ -1,7 +1,9 @@
 ## Hey 👋, I'm hyun!
 <a href='https://www.linkedin.com/in/본인의_링크드인_아이디/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
-I am a versatilist and easily adapt to different hats (DL/ML Engineer 🤖 or beginner level Designer 🎨 also beginner level SLAM & Robotices Engineerer) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats  
+(DL/ML Engineer 🤖 or beginner level Designer 🎨 also beginner level SLAM & Robotices Engineerer)  
+depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
   
