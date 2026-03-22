@@ -4,8 +4,6 @@
 I am a versatilist and easily adapt to different hats (DL/ML Engineer 🤖 or beginner level Designer 🎨 also beginner level SLAM & Robotices Engineerer) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
