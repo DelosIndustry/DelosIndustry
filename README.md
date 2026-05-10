@@ -32,24 +32,4 @@ depending on what the project requires. I love exploring new tech stack 💻 and
 
 <br><br><br>
 
-### 📊 Github Stats
-<p align="left">
-  <a href="https://github.com/DelosIndustry">
-    <img alt="DelosIndustry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DelosIndustry&show_icons=true&theme=transparent&hide_border=true" height="192px"/>
-  </a>
-  <a href="https://github.com/DelosIndustry">
-    <img alt="DelosIndustry's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelosIndustry&layout=compact&theme=transparent&hide_border=true" height="192px"/>
-  </a>
-</p>
-
 <br>
-
-### 🛠️ My Projects
-<p align="left">
-  <a href="https://github.com/DelosIndustry/레포지토리이름1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DelosIndustry&repo=레포지토리이름1&theme=transparent&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/DelosIndustry/레포지토리이름2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DelosIndustry&repo=레포지토리이름2&theme=transparent&hide_border=true" alt="Project 2" />
-  </a>
-</p>
