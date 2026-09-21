@@ -11,7 +11,7 @@ depending on what the project requires. I love exploring new tech stack 💻 and
 
 - 🔭 &nbsp; I’m currently working on **KNU DeLTA lab Undergraduate student**
 - 🤝 &nbsp; I’m looking to collaborate on **VAD, VLM, VLA, On-device AI**
-- 🌱 &nbsp; I’m currently learning **Robot Vision, VSLAM, VLA, On-device AI**
+- 🌱 &nbsp; I’m currently learning **VAD, Robot Vision, VSLAM, VLA, On-device AI**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DelosIndustry?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/동현-손-2270a5226)
